@@ -1,0 +1,25 @@
+
+.report_total_list {
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+
+.report_total_item {
+    display: flex;
+    font-size: 1.3rem;
+    color: #333;
+    padding: 10px 0;
+}
+
+.report_total_item span {
+    display: block;
+    font-size: 1.5rem;
+    width: 150px;
+}
+.report_total_item span:nth-child(2) {
+    display: block;
+    text-align: right;
+    color: rgb(255, 59, 39);
+    font-size: 18px;
+}

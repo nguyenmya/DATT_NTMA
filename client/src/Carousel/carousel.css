@@ -1,0 +1,24 @@
+.Product__content {
+    position: relative;
+    max-width: 90%;
+  
+   
+  }
+  .slick-arrow{
+    background-color:black;
+  }
+  h2{
+    margin-top: 80px;
+  }
+ 
+  .carousel{
+    margin-left: 15px;
+    height: 375px;
+    width: 90%;
+    border-radius: 4px;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+    border: 1px solid #93888870;
+
+  }

@@ -1,0 +1,26 @@
+.btn-them{
+       min-width: 40px !important;
+        height: 4npm 0px  !important;
+        background: #1a1ac3;
+        border-radius: 4px
+       
+}
+.btn-them svg{
+    color: white;
+}
+.btn-xoa{
+    min-width: 40px !important;
+    height: 40px  !important;
+    background: #b32f06;
+    border-radius: 4px;
+    margin-left: 2px;
+}
+
+.btn-xoa svg{
+    color: white;
+    
+
+}
+.btn_product{
+    margin-top: 30px;
+}
